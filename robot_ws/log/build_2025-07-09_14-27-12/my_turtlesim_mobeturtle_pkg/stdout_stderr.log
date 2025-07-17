@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing my_turtlesim_mobeturtle_pkg.egg-info/PKG-INFO
+writing dependency_links to my_turtlesim_mobeturtle_pkg.egg-info/dependency_links.txt
+writing entry points to my_turtlesim_mobeturtle_pkg.egg-info/entry_points.txt
+writing requirements to my_turtlesim_mobeturtle_pkg.egg-info/requires.txt
+writing top-level names to my_turtlesim_mobeturtle_pkg.egg-info/top_level.txt
+reading manifest file 'my_turtlesim_mobeturtle_pkg.egg-info/SOURCES.txt'
+writing manifest file 'my_turtlesim_mobeturtle_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/python3.10/site-packages/my-turtlesim-mobeturtle-pkg.egg-link (link to .)
+Installing cmdps script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+Installing dts script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+Installing mss script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+Installing mssc script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+Installing mv_turtle_pb script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+Installing sub script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+
+Installed /home/ghtn10000/robot_ws/build/my_turtlesim_mobeturtle_pkg
+running symlink_data

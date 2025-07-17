@@ -1,0 +1,1 @@
+/home/ghtn10000/robot_ws/build/my_second_pkg_msgs/rosidl_generator_py/my_second_pkg_msgs/_my_second_pkg_msgs_s.ep.rosidl_typesupport_c.c

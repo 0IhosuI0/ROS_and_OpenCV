@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ghtn10000/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/ghtn10000/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/ghtn10000/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/ghtn10000/robot_ws/install/my_second_pkg_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/ghtn10000/robot_ws/src/my_second_pkg_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ros2",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}

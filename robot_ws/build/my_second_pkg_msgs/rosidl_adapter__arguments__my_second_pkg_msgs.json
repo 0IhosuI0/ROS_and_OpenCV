@@ -1,0 +1,8 @@
+{
+  "package_name": "my_second_pkg_msgs",
+  "non_idl_tuples": [
+    "/home/ghtn10000/robot_ws/src/my_second_pkg_msgs:msg/CmdAndPoseVel.msg",
+    "/home/ghtn10000/robot_ws/src/my_second_pkg_msgs:srv/MultiSpawn.srv",
+    "/home/ghtn10000/robot_ws/src/my_second_pkg_msgs:action/DistTurtle.action"
+  ]
+}

@@ -1,0 +1,25 @@
+[0.275s] Invoking command in '/home/ghtn10000/robot_ws/build/my_second_pkg_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_teleop:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_example:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_dqn:/home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg:/home/ghtn10000/robot_ws/install/my_timer_pkg:/home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ghtn10000/robot_ws/build/my_second_pkg_msgs -- -j8 -l8
+[0.555s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.556s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.556s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.556s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.556s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.556s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.556s] [33mCMake Warning (dev) at CMakeLists.txt:15:
+[0.556s]   Syntax Warning in cmake code at column 24
+[0.556s] 
+[0.556s]   Argument not separated from preceding token by whitespace.
+[0.556s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.556s] [0m
+[0.561s] [31mCMake Error at /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:93 (message):
+[0.561s]   rosidl_generate_interfaces() the passed file ',' doesn't exist relative to
+[0.561s]   the CMAKE_CURRENT_SOURCE_DIR
+[0.561s]   '/home/ghtn10000/robot_ws/src/my_second_pkg_msgs'
+[0.561s] Call Stack (most recent call first):
+[0.561s]   CMakeLists.txt:14 (rosidl_generate_interfaces)
+[0.562s] 
+[0.562s] [0m
+[0.562s] -- Configuring incomplete, errors occurred!
+[0.562s] See also "/home/ghtn10000/robot_ws/build/my_second_pkg_msgs/CMakeFiles/CMakeOutput.log".
+[0.565s] gmake: *** [Makefile:747: cmake_check_build_system] Error 1
+[0.790s] Invoked command in '/home/ghtn10000/robot_ws/build/my_second_pkg_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_teleop:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_example:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_dqn:/home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg:/home/ghtn10000/robot_ws/install/my_timer_pkg:/home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ghtn10000/robot_ws/build/my_second_pkg_msgs -- -j8 -l8

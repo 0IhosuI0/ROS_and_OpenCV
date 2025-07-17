@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing topic_srv_act_rclpy_ex.egg-info/PKG-INFO
+writing dependency_links to topic_srv_act_rclpy_ex.egg-info/dependency_links.txt
+writing entry points to topic_srv_act_rclpy_ex.egg-info/entry_points.txt
+writing requirements to topic_srv_act_rclpy_ex.egg-info/requires.txt
+writing top-level names to topic_srv_act_rclpy_ex.egg-info/top_level.txt
+reading manifest file 'topic_srv_act_rclpy_ex.egg-info/SOURCES.txt'
+writing manifest file 'topic_srv_act_rclpy_ex.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/python3.10/site-packages/topic-srv-act-rclpy-ex.egg-link (link to .)
+Installing argument script to /home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/topic_srv_act_rclpy_ex
+Installing calculator script to /home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/topic_srv_act_rclpy_ex
+Installing calculator_cli script to /home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/topic_srv_act_rclpy_ex
+
+Installed /home/ghtn10000/robot_ws/build/topic_srv_act_rclpy_ex
+running symlink_data

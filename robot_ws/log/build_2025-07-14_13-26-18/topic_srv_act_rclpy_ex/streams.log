@@ -1,0 +1,20 @@
+[2.511s] Invoking command in '/home/ghtn10000/robot_ws/build/topic_srv_act_rclpy_ex': PYTHONPATH=/home/ghtn10000/robot_ws/build/topic_srv_act_rclpy_ex/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ghtn10000/robot_ws/build/topic_srv_act_rclpy_ex/build --no-deps symlink_data
+[3.110s] running develop
+[3.454s] running egg_info
+[3.454s] writing topic_srv_act_rclpy_ex.egg-info/PKG-INFO
+[3.455s] writing dependency_links to topic_srv_act_rclpy_ex.egg-info/dependency_links.txt
+[3.455s] writing entry points to topic_srv_act_rclpy_ex.egg-info/entry_points.txt
+[3.455s] writing requirements to topic_srv_act_rclpy_ex.egg-info/requires.txt
+[3.455s] writing top-level names to topic_srv_act_rclpy_ex.egg-info/top_level.txt
+[3.458s] reading manifest file 'topic_srv_act_rclpy_ex.egg-info/SOURCES.txt'
+[3.460s] writing manifest file 'topic_srv_act_rclpy_ex.egg-info/SOURCES.txt'
+[3.462s] running build_ext
+[3.462s] Creating /home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/python3.10/site-packages/topic-srv-act-rclpy-ex.egg-link (link to .)
+[3.463s] Installing argument script to /home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/topic_srv_act_rclpy_ex
+[3.464s] Installing calculator script to /home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/topic_srv_act_rclpy_ex
+[3.464s] Installing calculator_cli script to /home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/topic_srv_act_rclpy_ex
+[3.464s] Installing calcurator_action script to /home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/topic_srv_act_rclpy_ex
+[3.464s] 
+[3.464s] Installed /home/ghtn10000/robot_ws/build/topic_srv_act_rclpy_ex
+[3.464s] running symlink_data
+[3.508s] Invoked command in '/home/ghtn10000/robot_ws/build/topic_srv_act_rclpy_ex' returned '0': PYTHONPATH=/home/ghtn10000/robot_ws/build/topic_srv_act_rclpy_ex/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ghtn10000/robot_ws/build/topic_srv_act_rclpy_ex/build --no-deps symlink_data

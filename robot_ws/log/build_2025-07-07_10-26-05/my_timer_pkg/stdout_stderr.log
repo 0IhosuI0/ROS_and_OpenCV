@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating my_timer_pkg.egg-info
+writing my_timer_pkg.egg-info/PKG-INFO
+writing dependency_links to my_timer_pkg.egg-info/dependency_links.txt
+writing entry points to my_timer_pkg.egg-info/entry_points.txt
+writing requirements to my_timer_pkg.egg-info/requires.txt
+writing top-level names to my_timer_pkg.egg-info/top_level.txt
+writing manifest file 'my_timer_pkg.egg-info/SOURCES.txt'
+reading manifest file 'my_timer_pkg.egg-info/SOURCES.txt'
+writing manifest file 'my_timer_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ghtn10000/robot_ws/install/my_timer_pkg/lib/python3.10/site-packages/my-timer-pkg.egg-link (link to .)
+Installing timer_publisher script to /home/ghtn10000/robot_ws/install/my_timer_pkg/lib/my_timer_pkg
+Installing timer_subscriber script to /home/ghtn10000/robot_ws/install/my_timer_pkg/lib/my_timer_pkg
+
+Installed /home/ghtn10000/robot_ws/build/my_timer_pkg
+running symlink_data
+creating /home/ghtn10000/robot_ws/install/my_timer_pkg/share/ament_index
+creating /home/ghtn10000/robot_ws/install/my_timer_pkg/share/ament_index/resource_index
+creating /home/ghtn10000/robot_ws/install/my_timer_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/ghtn10000/robot_ws/build/my_timer_pkg/resource/my_timer_pkg -> /home/ghtn10000/robot_ws/install/my_timer_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/ghtn10000/robot_ws/build/my_timer_pkg/package.xml -> /home/ghtn10000/robot_ws/install/my_timer_pkg/share/my_timer_pkg

@@ -1,0 +1,1 @@
+/home/ghtn10000/robot_ws/build/my_second_pkg_msgs/rosidl_generator_py/my_second_pkg_msgs/msg/_cmd_and_pose_vel.py

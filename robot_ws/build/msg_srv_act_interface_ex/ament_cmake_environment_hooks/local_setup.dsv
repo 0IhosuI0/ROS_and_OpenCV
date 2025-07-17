@@ -1,0 +1,4 @@
+source;share/msg_srv_act_interface_ex/environment/ament_prefix_path.sh
+source;share/msg_srv_act_interface_ex/environment/library_path.sh
+source;share/msg_srv_act_interface_ex/environment/path.sh
+source;share/msg_srv_act_interface_ex/environment/pythonpath.sh

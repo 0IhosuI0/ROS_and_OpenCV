@@ -1,0 +1,10 @@
+[console_scripts]
+cmdps = my_turtlesim_mobeturtle_pkg.turtle_cmd_and_pse:main
+das = my_turtlesim_mobeturtle_pkg.dist_act_srv:main
+dts = my_turtlesim_mobeturtle_pkg.dist_srv:main
+mss = my_turtlesim_mobeturtle_pkg.my_srv_server:main
+mssc = my_turtlesim_mobeturtle_pkg.my_srv_server_circle:main
+mt = my_turtlesim_mobeturtle_pkg.my_multi_thread:main
+mv_turtle_pb = my_turtlesim_mobeturtle_pkg.move_turtle_pb:main
+sub = my_turtlesim_mobeturtle_pkg.my_subscriber:main
+

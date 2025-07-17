@@ -1,0 +1,6 @@
+[console_scripts]
+argument = topic_srv_act_rclpy_ex.argument:main
+calculator = topic_srv_act_rclpy_ex.topic_subscriber:main
+calculator_cli = topic_srv_act_rclpy_ex.client:main
+calcurator_action = topic_srv_act_rclpy_ex.cal_act_cli:main
+

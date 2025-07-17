@@ -1,0 +1,4 @@
+[console_scripts]
+timer_publisher = my_timer_pkg.timer_publisher:main
+timer_subscriber = my_timer_pkg.timer_subscriber:main
+

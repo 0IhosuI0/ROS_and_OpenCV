@@ -1,0 +1,1 @@
+/home/ghtn10000/robot_ws/build/msg_srv_act_interface_ex/ament_cmake_environment_hooks/pythonpath.sh

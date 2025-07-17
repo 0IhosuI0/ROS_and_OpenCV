@@ -1,0 +1,7 @@
+[0.230s] Invoking command in '/home/ghtn10000/robot_ws/build/my_second_pkg_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_teleop:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_example:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_dqn:/home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg:/home/ghtn10000/robot_ws/install/my_timer_pkg:/home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg:/opt/ros/humble /usr/bin/cmake /home/ghtn10000/robot_ws/src/my_second_pkg_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ghtn10000/robot_ws/install/my_second_pkg_msgs
+[0.462s] -- Configuring incomplete, errors occurred!
+[0.462s] [31mCMake Error at CMakeLists.txt:14:
+[0.462s]   Parse error.  Function missing ending ")".  End of file reached.
+[0.462s] 
+[0.462s] [0m
+[0.463s] Invoked command in '/home/ghtn10000/robot_ws/build/my_second_pkg_msgs' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_teleop:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_example:/home/ghtn10000/turtlebot3_ws/install/turtlebot3_dqn:/home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg:/home/ghtn10000/robot_ws/install/my_timer_pkg:/home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg:/opt/ros/humble /usr/bin/cmake /home/ghtn10000/robot_ws/src/my_second_pkg_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ghtn10000/robot_ws/install/my_second_pkg_msgs

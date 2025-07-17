@@ -1,0 +1,24 @@
+[2.709s] Invoking command in '/home/ghtn10000/robot_ws/build/my_turtlesim_mobeturtle_pkg': PYTHONPATH=/home/ghtn10000/robot_ws/build/my_turtlesim_mobeturtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ghtn10000/robot_ws/build/my_turtlesim_mobeturtle_pkg/build --no-deps symlink_data
+[3.285s] running develop
+[3.652s] running egg_info
+[3.652s] writing my_turtlesim_mobeturtle_pkg.egg-info/PKG-INFO
+[3.653s] writing dependency_links to my_turtlesim_mobeturtle_pkg.egg-info/dependency_links.txt
+[3.653s] writing entry points to my_turtlesim_mobeturtle_pkg.egg-info/entry_points.txt
+[3.655s] writing requirements to my_turtlesim_mobeturtle_pkg.egg-info/requires.txt
+[3.655s] writing top-level names to my_turtlesim_mobeturtle_pkg.egg-info/top_level.txt
+[3.659s] reading manifest file 'my_turtlesim_mobeturtle_pkg.egg-info/SOURCES.txt'
+[3.659s] writing manifest file 'my_turtlesim_mobeturtle_pkg.egg-info/SOURCES.txt'
+[3.663s] running build_ext
+[3.663s] Creating /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/python3.10/site-packages/my-turtlesim-mobeturtle-pkg.egg-link (link to .)
+[3.665s] Installing cmdps script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+[3.665s] Installing das script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+[3.665s] Installing dts script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+[3.666s] Installing mss script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+[3.666s] Installing mssc script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+[3.666s] Installing mt script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+[3.666s] Installing mv_turtle_pb script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+[3.666s] Installing sub script to /home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/my_turtlesim_mobeturtle_pkg
+[3.667s] 
+[3.667s] Installed /home/ghtn10000/robot_ws/build/my_turtlesim_mobeturtle_pkg
+[3.667s] running symlink_data
+[3.710s] Invoked command in '/home/ghtn10000/robot_ws/build/my_turtlesim_mobeturtle_pkg' returned '0': PYTHONPATH=/home/ghtn10000/robot_ws/build/my_turtlesim_mobeturtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ghtn10000/robot_ws/install/my_turtlesim_mobeturtle_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ghtn10000/robot_ws/build/my_turtlesim_mobeturtle_pkg/build --no-deps symlink_data

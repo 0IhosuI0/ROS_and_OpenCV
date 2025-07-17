@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "msg_srv_act_interface_ex__py",
+		"source" : "/home/ghtn10000/robot_ws/build/msg_srv_act_interface_ex/msg_srv_act_interface_ex__py"
+	}
+}

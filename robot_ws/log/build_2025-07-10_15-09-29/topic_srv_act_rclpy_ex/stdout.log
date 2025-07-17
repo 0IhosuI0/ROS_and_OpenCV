@@ -1,0 +1,16 @@
+running develop
+running egg_info
+creating topic_service_action_rclpy_example.egg-info
+writing topic_service_action_rclpy_example.egg-info/PKG-INFO
+writing dependency_links to topic_service_action_rclpy_example.egg-info/dependency_links.txt
+writing entry points to topic_service_action_rclpy_example.egg-info/entry_points.txt
+writing requirements to topic_service_action_rclpy_example.egg-info/requires.txt
+writing top-level names to topic_service_action_rclpy_example.egg-info/top_level.txt
+writing manifest file 'topic_service_action_rclpy_example.egg-info/SOURCES.txt'
+reading manifest file 'topic_service_action_rclpy_example.egg-info/SOURCES.txt'
+writing manifest file 'topic_service_action_rclpy_example.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ghtn10000/robot_ws/install/topic_srv_act_rclpy_ex/lib/python3.10/site-packages/topic-service-action-rclpy-example.egg-link (link to .)
+
+Installed /home/ghtn10000/robot_ws/build/topic_srv_act_rclpy_ex
+running symlink_data

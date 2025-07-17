@@ -1,0 +1,1 @@
+/home/ghtn10000/robot_ws/build/msg_srv_act_interface_ex/rosidl_typesupport_fastrtps_c/msg_srv_act_interface_ex/srv/detail/arithmetic_operator__rosidl_typesupport_fastrtps_c.h

@@ -1,0 +1,3 @@
+/home/ghtn10000/robot_ws/build/my_second_pkg_msgs/rosidl_adapter/my_second_pkg_msgs:msg/CmdAndPoseVel.idl
+/home/ghtn10000/robot_ws/build/my_second_pkg_msgs/rosidl_adapter/my_second_pkg_msgs:srv/MultiSpawn.idl
+/home/ghtn10000/robot_ws/build/my_second_pkg_msgs/rosidl_adapter/my_second_pkg_msgs:action/DistTurtle.idl

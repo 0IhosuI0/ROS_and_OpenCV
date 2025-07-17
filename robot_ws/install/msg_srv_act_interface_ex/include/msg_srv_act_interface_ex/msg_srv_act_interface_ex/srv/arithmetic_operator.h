@@ -1,0 +1,1 @@
+/home/ghtn10000/robot_ws/build/msg_srv_act_interface_ex/rosidl_generator_c/msg_srv_act_interface_ex/srv/arithmetic_operator.h

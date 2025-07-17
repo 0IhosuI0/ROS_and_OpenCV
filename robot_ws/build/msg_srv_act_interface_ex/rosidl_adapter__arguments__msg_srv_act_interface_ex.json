@@ -1,0 +1,8 @@
+{
+  "package_name": "msg_srv_act_interface_ex",
+  "non_idl_tuples": [
+    "/home/ghtn10000/robot_ws/src/msg_srv_act_interface_ex:msg/ArithmeticArgument.msg",
+    "/home/ghtn10000/robot_ws/src/msg_srv_act_interface_ex:srv/ArithmeticOperator.srv",
+    "/home/ghtn10000/robot_ws/src/msg_srv_act_interface_ex:action/ArithmeticChecker.action"
+  ]
+}

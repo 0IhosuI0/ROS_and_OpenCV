@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "my_second_pkg_msgs__py",
+		"source" : "/home/ghtn10000/robot_ws/build/my_second_pkg_msgs/my_second_pkg_msgs__py"
+	}
+}

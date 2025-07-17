@@ -1,0 +1,25 @@
+[0.517s] Invoking command in '/home/ghtn10000/robot_ws/build/my_first_ros_rclpy_pkg': PYTHONPATH=/home/ghtn10000/robot_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ghtn10000/robot_ws/build/my_first_ros_rclpy_pkg/build --no-deps symlink_data
+[0.710s] running develop
+[0.821s] running egg_info
+[0.822s] creating my_first_ros_rclpy_pkg.egg-info
+[0.822s] writing my_first_ros_rclpy_pkg.egg-info/PKG-INFO
+[0.822s] writing dependency_links to my_first_ros_rclpy_pkg.egg-info/dependency_links.txt
+[0.822s] writing entry points to my_first_ros_rclpy_pkg.egg-info/entry_points.txt
+[0.822s] writing requirements to my_first_ros_rclpy_pkg.egg-info/requires.txt
+[0.822s] writing top-level names to my_first_ros_rclpy_pkg.egg-info/top_level.txt
+[0.822s] writing manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[0.823s] reading manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[0.824s] writing manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[0.825s] running build_ext
+[0.825s] Creating /home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages/my-first-ros-rclpy-pkg.egg-link (link to .)
+[0.825s] Installing helloworld_publisher script to /home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[0.825s] Installing helloworld_subscriber script to /home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg/lib/my_first_ros_rclpy_pkg
+[0.826s] 
+[0.826s] Installed /home/ghtn10000/robot_ws/build/my_first_ros_rclpy_pkg
+[0.826s] running symlink_data
+[0.826s] creating /home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg/share/ament_index
+[0.826s] creating /home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg/share/ament_index/resource_index
+[0.826s] creating /home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg/share/ament_index/resource_index/packages
+[0.826s] symbolically linking /home/ghtn10000/robot_ws/build/my_first_ros_rclpy_pkg/resource/my_first_ros_rclpy_pkg -> /home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg/share/ament_index/resource_index/packages
+[0.826s] symbolically linking /home/ghtn10000/robot_ws/build/my_first_ros_rclpy_pkg/package.xml -> /home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg/share/my_first_ros_rclpy_pkg
+[0.848s] Invoked command in '/home/ghtn10000/robot_ws/build/my_first_ros_rclpy_pkg' returned '0': PYTHONPATH=/home/ghtn10000/robot_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ghtn10000/robot_ws/install/my_first_ros_rclpy_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ghtn10000/robot_ws/build/my_first_ros_rclpy_pkg/build --no-deps symlink_data

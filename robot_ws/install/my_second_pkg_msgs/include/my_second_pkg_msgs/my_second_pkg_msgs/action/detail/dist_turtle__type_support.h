@@ -1,0 +1,1 @@
+/home/ghtn10000/robot_ws/build/my_second_pkg_msgs/rosidl_generator_c/my_second_pkg_msgs/action/detail/dist_turtle__type_support.h

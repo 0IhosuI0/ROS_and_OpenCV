@@ -1,0 +1,18 @@
+[2.066s] Invoking command in '/home/ghtn10000/robot_ws/build/my_timer_pkg': PYTHONPATH=/home/ghtn10000/robot_ws/build/my_timer_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ghtn10000/robot_ws/install/my_timer_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ghtn10000/robot_ws/build/my_timer_pkg/build --no-deps symlink_data
+[2.392s] running develop
+[2.611s] running egg_info
+[2.611s] writing my_timer_pkg.egg-info/PKG-INFO
+[2.612s] writing dependency_links to my_timer_pkg.egg-info/dependency_links.txt
+[2.612s] writing entry points to my_timer_pkg.egg-info/entry_points.txt
+[2.613s] writing requirements to my_timer_pkg.egg-info/requires.txt
+[2.613s] writing top-level names to my_timer_pkg.egg-info/top_level.txt
+[2.614s] reading manifest file 'my_timer_pkg.egg-info/SOURCES.txt'
+[2.615s] writing manifest file 'my_timer_pkg.egg-info/SOURCES.txt'
+[2.617s] running build_ext
+[2.617s] Creating /home/ghtn10000/robot_ws/install/my_timer_pkg/lib/python3.10/site-packages/my-timer-pkg.egg-link (link to .)
+[2.618s] Installing timer_publisher script to /home/ghtn10000/robot_ws/install/my_timer_pkg/lib/my_timer_pkg
+[2.618s] Installing timer_subscriber script to /home/ghtn10000/robot_ws/install/my_timer_pkg/lib/my_timer_pkg
+[2.618s] 
+[2.618s] Installed /home/ghtn10000/robot_ws/build/my_timer_pkg
+[2.618s] running symlink_data
+[2.653s] Invoked command in '/home/ghtn10000/robot_ws/build/my_timer_pkg' returned '0': PYTHONPATH=/home/ghtn10000/robot_ws/build/my_timer_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ghtn10000/robot_ws/install/my_timer_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ghtn10000/robot_ws/build/my_timer_pkg/build --no-deps symlink_data

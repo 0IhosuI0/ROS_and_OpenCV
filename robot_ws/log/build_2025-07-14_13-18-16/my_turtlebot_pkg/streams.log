@@ -1,0 +1,17 @@
+[2.354s] Invoking command in '/home/ghtn10000/robot_ws/build/my_turtlebot_pkg': PYTHONPATH=/home/ghtn10000/robot_ws/build/my_turtlebot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ghtn10000/robot_ws/install/my_turtlebot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ghtn10000/robot_ws/build/my_turtlebot_pkg/build --no-deps symlink_data
+[2.783s] running develop
+[3.080s] running egg_info
+[3.081s] writing my_turtlebot_pkg.egg-info/PKG-INFO
+[3.082s] writing dependency_links to my_turtlebot_pkg.egg-info/dependency_links.txt
+[3.082s] writing entry points to my_turtlebot_pkg.egg-info/entry_points.txt
+[3.083s] writing requirements to my_turtlebot_pkg.egg-info/requires.txt
+[3.083s] writing top-level names to my_turtlebot_pkg.egg-info/top_level.txt
+[3.086s] reading manifest file 'my_turtlebot_pkg.egg-info/SOURCES.txt'
+[3.087s] writing manifest file 'my_turtlebot_pkg.egg-info/SOURCES.txt'
+[3.090s] running build_ext
+[3.092s] Creating /home/ghtn10000/robot_ws/install/my_turtlebot_pkg/lib/python3.10/site-packages/my-turtlebot-pkg.egg-link (link to .)
+[3.094s] Installing mv_turtle_pub = my_turtlebot_pkg.move_turtle_publisher:mainscan script to /home/ghtn10000/robot_ws/install/my_turtlebot_pkg/lib/my_turtlebot_pkg
+[3.094s] 
+[3.094s] Installed /home/ghtn10000/robot_ws/build/my_turtlebot_pkg
+[3.095s] running symlink_data
+[3.149s] Invoked command in '/home/ghtn10000/robot_ws/build/my_turtlebot_pkg' returned '0': PYTHONPATH=/home/ghtn10000/robot_ws/build/my_turtlebot_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ghtn10000/robot_ws/install/my_turtlebot_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ghtn10000/robot_ws/build/my_turtlebot_pkg/build --no-deps symlink_data
