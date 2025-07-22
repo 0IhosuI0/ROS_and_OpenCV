@@ -1,5 +1,7 @@
 [console_scripts]
 Odo = my_turtlebot_pkg.position:main
+camera_subscriber = my_turtlebot_pkg.camera_subscriber:main
 mv_turtle_pub = my_turtlebot_pkg.move_turtle_publisher:main
+mvhd = my_turtlebot_pkg.move_turtle_hand_detect:main
 scan = my_turtlebot_pkg.laser_scan:main
 

@@ -22,7 +22,9 @@ setup(
         'console_scripts': [
           'mv_turtle_pub = my_turtlebot_pkg.move_turtle_publisher:main',
           'scan = my_turtlebot_pkg.laser_scan:main',
-          'Odo = my_turtlebot_pkg.position:main'
+          'Odo = my_turtlebot_pkg.position:main',
+          'mvhd = my_turtlebot_pkg.move_turtle_hand_detect:main',
+          'camera_subscriber = my_turtlebot_pkg.camera_subscriber:main'
 
         ],
     },

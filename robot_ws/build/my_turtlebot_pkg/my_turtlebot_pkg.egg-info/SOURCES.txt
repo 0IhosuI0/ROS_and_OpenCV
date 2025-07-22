@@ -1,8 +1,14 @@
 package.xml
 setup.cfg
 setup.py
+my_turtlebot_pkg/Odo_srv.py
+my_turtlebot_pkg/Odo_to_art.py
 my_turtlebot_pkg/__init__.py
+my_turtlebot_pkg/camera_subscriber.py
+my_turtlebot_pkg/hand_detect.py
 my_turtlebot_pkg/laser_scan.py
+my_turtlebot_pkg/move_from_Odo.py
+my_turtlebot_pkg/move_turtle_hand_detect.py
 my_turtlebot_pkg/move_turtle_publisher.py
 my_turtlebot_pkg/position.py
 my_turtlebot_pkg.egg-info/PKG-INFO
