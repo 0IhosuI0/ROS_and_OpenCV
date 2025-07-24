@@ -1,0 +1,24 @@
+slam_toolbox:
+  ros__parameters:
+    use_sim_time: true
+    # For more parameters, refer to:
+    # https://github.com/ros-perception/slam_toolbox/blob/ros2/slam_toolbox/config/mapper_params_online_sync.yaml
+    # You might need to adjust these based on your robot and environment
+    odom_frame: odom
+    map_frame: map
+    base_frame: base_link
+    scan_topic: scan
+    mode: "mapping" # or "localization"
+    map_start_pose: [0.0, 0.0, 0.0]
+    map_start_pose_is_relative: false
+    map_update_interval: 5.0
+    resolution: 0.05
+    transform_timeout: 0.2
+    max_laser_range: 8.0
+    minimum_travel_distance: 0.2
+    minimum_travel_angle: 0.1
+    debug_logging: false
+    throttle_scans: 1
+    use_transform_time_offset: false
+    transform_time_offset: 0.0
+    enable_interactive_mode: true

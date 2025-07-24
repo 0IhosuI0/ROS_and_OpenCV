@@ -24,8 +24,9 @@ setup(
           'scan = my_turtlebot_pkg.laser_scan:main',
           'Odo = my_turtlebot_pkg.position:main',
           'mvhd = my_turtlebot_pkg.move_turtle_hand_detect:main',
-          'camera_subscriber = my_turtlebot_pkg.camera_subscriber:main'
-
+          'camera_subscriber = my_turtlebot_pkg.camera_subscriber:main',
+          'obstacle_avoider = my_turtlebot_pkg.obstacle_avoider:main',
+          'random_explorer = my_turtlebot_pkg.random_explorer:main'
         ],
     },
 )

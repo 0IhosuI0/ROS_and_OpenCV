@@ -12,6 +12,7 @@ class Move_turtle(Node):
     self.key_move = 0.0
     self.key_angle = 0.0
 
+  '''
   def input_keyboard(self):
     self.key_input = input("Input Key(W, A, S, D and F is Stop) >> ")
     if(self.key_input == 'w' or self.key_input == 'W'):
@@ -36,6 +37,24 @@ class Move_turtle(Node):
     else:
       self.key_move = 0.0
       self.key_angle = 0.0
+  '''
+  def input_keyboard(self):
+    self.key_input = input("Input Key(W, A, S, D and F is Stop) >> ")
+    if(self.key_input == 'w' or self.key_input == 'W'):
+      self.key_move += 1.5
+    elif(self.key_input == 's' or self.key_input == 'S'):
+      self.key_move += -1.5
+    elif(self.key_input == 'a' or self.key_input == 'A'):
+      self.key_angle += +1.0
+    elif(self.key_input == 'd' or self.key_input == 'D'):
+      self.key_angle += -1.0
+    elif(self.key_input == 'f' or self.key_input == 'F'):
+      self.key_move = 0.0
+      self.key_angle = 0.0
+    else:
+      self.key_move = 0.0
+      self.key_angle = 0.0
+
 
   def turtle_move(self):
     self.input_keyboard()
